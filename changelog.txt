@@ -1,0 +1,19 @@
+hydra v2
+
+2.0.0
+- initial release
+
+2.1.0
+- fixed config path issues
+- fixed screenshot uploader
+- added special use case for single file in series directories
+- fixed releasename error on basename
+- added dupe check
+- added succesful upload check
+- added resume log and logging for failed uploads
+- installer script added
+
+2.1.1
+- renamed some variables to remove confusion
+- fixed single file in directory errors
+- installer updated

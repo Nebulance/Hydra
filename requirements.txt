@@ -1,0 +1,4 @@
+requests==2.23.0
+bencode3==0.1.0
+rarfile==3.1
+beautifulsoup4==4.8.2
