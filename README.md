@@ -1,6 +1,6 @@
 # Hydra
 
-This was the autoup bot used on the old MTV. Hopefully it can be modified it to work for Nebulance. While there has been some work done it isn't complete.
+This was the autoup bot used on the old MTV. Hopefully it can be modified it to work for Nebulance. Whilst there has been some work done on it to modify it from Nebulance it isn't complete.
 
 We would required the Bot to be able to:
 
